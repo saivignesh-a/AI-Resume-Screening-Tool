@@ -8,13 +8,21 @@ Improve accuracy in matching resumes to job roles
 Apply NLP and Machine Learning techniques on real resume data
 
 Technologies Used - 
+
 1.Python
+
 2.Pandas
+
 3.NumPy
+
 4.Scikit-learn
+
 5.NLTK
+
 6.Matplotlib
+
 7.Seaborn
+
 8.Jupyter Notebook
 
 How to Run the Project - 
