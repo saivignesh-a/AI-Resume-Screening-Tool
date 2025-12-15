@@ -7,7 +7,7 @@ Reduce recruiter time and manual effort
 Improve accuracy in matching resumes to job roles
 Apply NLP and Machine Learning techniques on real resume data
 
-Technologies Used - 
+Technologies Used:
 
 1.Python
 
